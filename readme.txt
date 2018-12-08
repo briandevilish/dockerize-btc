@@ -11,4 +11,3 @@ How to setup?
 * docker run --net=host -it bitcoincli  -rpcport=18401 -regtest dumpprivkey "mjDaK78yWopz8TkC83PpUfXG7mBNYocMAo"
 * docker run --net=host -it bitcoincli  -rpcport=18401 -regtest getbalance
 
-Also worth looking at https://bitbucket.org/anxintl/anx-cold/src/dev/cold-utils/wallet/test/test-input-data.js
